@@ -21,6 +21,8 @@ Passionate about building user-centric applications, solving challenging data pr
 <br>
 Developed a full-stack AI-driven job search platform. Built REST APIs for job recommendations and user profiles, integrating LLAMA3 AI to personalize job matching based on skills and resume. Reduced deployment time by 50% using Dockerized microservices.
 ![Job Search Portal](https://media.licdn.com/dms/image/v2/D5622AQHVo9l8OBs0Uw/feedshare-shrink_800/feedshare-shrink_800/0/1733835659983?e=1737590400&v=beta&t=rxvjufKP5Ibf5o8-WpVFYKDkMMLGHoO7VZ0Frcu9koo)
+![Job Search Portal](https://media.licdn.com/dms/image/v2/D5622AQEE6WuT8z4GUA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733835659983?e=1737590400&v=beta&t=_G80w6NOyOFUa5rjveHt2XPvTWNm_bDIP8eM0-bBNXA)
+
 
 ## Multiplayer Bingo Web Game
 [Live Link](https://bingogame.azurewebsites.net/)
