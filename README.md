@@ -50,7 +50,7 @@ This project implements a multithreaded client-server application to play the ga
 
 # Machine Learning/Data Science Projects
 ## Real-Time Object Detection System  
-[Github Repo] (https://github.com/acbikash13/kafkaObjectDetection)
+[Github Repo](https://github.com/acbikash13/kafkaObjectDetection)
 <br>
 **Technologies**: Kafka, Spark, YOLOv3, OpenCV  <br>
 Created a video object detection pipeline, achieving 85% detection accuracy. Optimized video frame processing to reduce latency in real-time applications.  
