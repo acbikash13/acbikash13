@@ -15,11 +15,16 @@ Passionate about building user-centric applications, solving challenging data pr
 # My Key Works
 
 ## Job Search Platform  
-[Github Org Repo](https://github.com/H1BMatch)
+[Live Link | Appjob.net](https://appjob.net)
 <br>
-**Technologies**: Next.js, PostgreSQL, TypeScript, Express.js, Docker, Azure, Clerk.dev Authentication, AWS RDS PostgreSQL  
+**Technologies**: Next.js, PostgreSQL, TypeScript, Express.js, Docker, Azure, Clerk.dev Authentication, python (web-scraping)
 <br>
-Developed a full-stack AI-driven job search platform. Built REST APIs for job recommendations and user profiles, integrating LLAMA3 AI to personalize job matching based on skills and resume. Reduced deployment time by 50% using Dockerized microservices.
+This is a full stack application that lets user get the most matching jobs for their profile. This application is built on a microservice architecture i.e frontend (Next.js), backend(Express), database(PostgreSQL), llama3.1 model, web scraper(python) and is deployed on azure. <br>
+-Web Scraper is a cron job and runs every hour and uploads the new jobs on the database.<br>
+-The llama3.1 also runs every minutes and vectorizes the job description and stores it in to the database and does the same for the resume uploaded by the user.<br>
+-Users sign in using gmail account.<br>
+-Authentication is handled by clerk.<br>
+-The app also has a filter option where users can search jobs using job titles, filter remote jobs and search for internships/contract/fulltime or part time jobs.<br>
 ![Job Search Portal](https://media.licdn.com/dms/image/v2/D5622AQHVo9l8OBs0Uw/feedshare-shrink_800/feedshare-shrink_800/0/1733835659983?e=1737590400&v=beta&t=rxvjufKP5Ibf5o8-WpVFYKDkMMLGHoO7VZ0Frcu9koo)
 ![Job Search Portal](https://media.licdn.com/dms/image/v2/D5622AQEE6WuT8z4GUA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733835659983?e=1737590400&v=beta&t=_G80w6NOyOFUa5rjveHt2XPvTWNm_bDIP8eM0-bBNXA)
 
